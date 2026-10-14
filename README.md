@@ -1,5 +1,12 @@
 # Inbox Zero Mail
 
+> [!WARNING]
+> **This experimental repository is no longer maintained.**
+>
+> The official, actively maintained Inbox Zero repository is **[elie222/inbox-zero](https://github.com/elie222/inbox-zero)**. It includes our **Electron desktop app**, the mail client we support going forward.
+>
+> Please use that repository for the current app, releases, issues, and contributions. The documentation below describes this discontinued experiment.
+
 **Open-source, privacy-first native desktop email clients.** This repository currently contains two independent implementations of Inbox Zero Mail.
 
 ![Inbox Zero Mail inbox](docs/screenshot.png)
